@@ -1,4 +1,4 @@
-module github.com/block-vision/sui-go-sdk
+module github.com/ipanardian/sui-go-sdk
 
 go 1.20
 
